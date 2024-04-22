@@ -6,7 +6,7 @@
 
 - Connects services together​
 
--- Highly performant, robust, and scalable ​
+- Highly performant, robust, and scalable ​
 
 
 ## @ Google **10 Billion requests** made _every second_ internally​
